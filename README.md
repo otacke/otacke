@@ -7,7 +7,7 @@ I'm an IT freelancer who loves [H5P](https://h5p.org)!
 - :gift_heart: Loves contributing to open source projects and Open Educational Resources.
 - :bank: For a living, helps others to better use [H5P](https://h5p.org) at [SNORDIAN](https://snordian.de).
 - :pleading_face: Gets sad when people pretend or believe they cannot do something.
-- :studio_microphone: Co-hosts a podcast about teaching and learning with digital media called [BldgAltEntf](https://bldg-alt-entf-de).
+- :studio_microphone: Co-hosts a podcast about teaching and learning with digital media called [BldgAltEntf](https://bldg-alt-entf.de).
 
 ## :wrench: Technologies and tools
 
