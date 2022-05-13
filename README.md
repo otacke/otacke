@@ -26,6 +26,7 @@ I'm an IT freelancer who loves [H5P](https://h5p.org)!
 ![Bitbucket](https://img.icons8.com/color/30/bitbucket.png)
 ![Gitlab](https://img.icons8.com/color/30/gitlab.png)
 ![Git](https://img.icons8.com/color/30/git.png)
+![Suse](https://img.icons8.com/color/30/suse--v1.png)
 ![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)
 ![Linux](https://img.icons8.com/color/30/linux.png)
 ![Console](https://img.icons8.com/color/30/console.png)
