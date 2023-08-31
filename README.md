@@ -8,7 +8,7 @@ I'm an IT freelancer who loves [H5P](https://h5p.org)!
 - :bank: For a living, helps others to better use [H5P](https://h5p.org) at [SNORDIAN](https://snordian.de).
 - :pleading_face: Gets sad when people pretend or believe they cannot do something.
 - :studio_microphone: Co-hosts a podcast about teaching and learning with digital media called [BldgAltEntf](https://bldg-alt-entf.de).
-- :running_man: (Re)-Started running and hopefully will keep doing so this time :smile:. [Track and nudge me](https://www.strava.com/athletes/34162576)!
+- :running_man: (Re)-Started running and hopefully will keep running this time :smile:. [Track and nudge me](https://www.strava.com/athletes/34162576)!
 
 ## :wrench: Technologies and tools
 
