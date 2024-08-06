@@ -32,4 +32,6 @@ I'm an IT freelancer who loves [H5P](https://h5p.org)!
 ![Linux](https://img.icons8.com/color/30/linux.png)
 ![Console](https://img.icons8.com/color/30/console.png)
 ![Inkscape](https://img.icons8.com/color/30/inkscape.png)
----
+
+## :computer: Statistics
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otacke&show_icons=true&theme=tokyonight)
