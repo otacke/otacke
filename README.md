@@ -9,7 +9,7 @@ I'm an IT freelancer who loves [H5P](https://h5p.org)!
 - :pleading_face: Gets sad when people pretend or believe they cannot do something.
 - :studio_microphone: Co-hosts a podcast about teaching and learning with digital media called [BldgAltEntf](https://bldg-alt-entf.de).
 - :running_man: (Re)-Started running and hopefully will keep running this time :smile:. [Track and nudge me](https://www.strava.com/athletes/34162576)!
-- :martial_arts_uniform: Karate and Ryukyu kobudo.
+- :martial_arts_uniform: karate and ryukyu kobudo.
 
 ## :wrench: Technologies and tools
 
